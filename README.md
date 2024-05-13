@@ -49,7 +49,8 @@ Our Real-Time Voting System offers a comprehensive suite of functionalities, inc
 
 ## 🏘️ Architecture/Workflows
 
-[Insert Architecture/Workflows Diagram Here]
+![system_architecture](https://github.com/aifreak00/Real_Time_Data_Driven_Voting_System/assets/113664560/6e318c13-b58d-4a87-81d7-32dd95001ff0)
+
 
 ## Screenshots 📸
 
