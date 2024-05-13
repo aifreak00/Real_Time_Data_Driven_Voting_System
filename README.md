@@ -54,5 +54,11 @@ Our Real-Time Voting System offers a comprehensive suite of functionalities, inc
 
 ## Screenshots 📸
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Capture](https://github.com/aifreak00/Real_Time_Data_Driven_Voting_System/assets/113664560/59bd989c-57e2-4c17-8faf-de1d7328eab0)
+![dgrg](https://github.com/aifreak00/Real_Time_Data_Driven_Voting_System/assets/113664560/56927029-fde4-49b8-9cef-0a8769f90a5c)
+![dffgrg](https://github.com/aifreak00/Real_Time_Data_Driven_Voting_System/assets/113664560/7613a67d-5272-477a-98f7-9edcddb4de59)
+
+
+
+
 
